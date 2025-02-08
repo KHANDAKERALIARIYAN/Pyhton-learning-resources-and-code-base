@@ -1,3 +1,5 @@
+# chapter 2
+
 # variables & datatypes 
 
 # a=1 #integer
