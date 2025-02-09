@@ -27,7 +27,6 @@
 #     print(l1[i])
 #     i+=1
 
-
 # for loop
 
 # for i in range(4):
@@ -36,18 +35,20 @@
 # for a in range(1,100,2):
 #     print(a)
 
-
 # list in loop
+
 # l1=[1,3,5,6,3214,4,6345]
 # for i in l1:
 #     print(i)
 
 # tupples in loop
+
 # t=(1,2,3,4,5,6,7,8,9)
 # for i in t:
 #     print(i)
 
 # string in loop
+
 # s="harry"
 # for i in s:
 #     print(i)
