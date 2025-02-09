@@ -1,4 +1,5 @@
 # chapter 5 
+
 # set and dictionary
 
 # dictionary is a collection of key value pairs
@@ -13,8 +14,8 @@
 # print(type(marks))
 # print(marks["harry"]) 
 
-
 #  dictionaries methods
+
 # print(marks.items())
 # print(marks.keys())
 # print(marks.values())
@@ -99,6 +100,7 @@
 # d2 = d.copy()
 # print(d2)  # Output: {'name': 'Alice', 'city': 'New York', 'age': 25}
 
+# set
 
 # set is a collection of non repetitive elements
 # s1={}
@@ -112,7 +114,6 @@
 
 # s.add(12)
 # print(s,type(s))
-
 
 # Python sets come with several useful built-in methods. Here are some of the most commonly used ones:
 
