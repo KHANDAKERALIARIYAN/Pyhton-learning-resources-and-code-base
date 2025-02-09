@@ -13,6 +13,7 @@
 # to do this multiple time we can use function
 
 # function defination
+
 # def avg():
 #     a=int(input("Enter 1st number: "))
 #     b=int(input("Enter 2nd number: "))
@@ -52,8 +53,8 @@
 # greeting("harry")
 # greeting("harry","bye")
 
-
 # recursion
+
 # def factorial(n):
 #     if (n==1 or n==0):
 #         return 1
