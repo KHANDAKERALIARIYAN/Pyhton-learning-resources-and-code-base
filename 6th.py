@@ -1,23 +1,20 @@
 # chapter 6
+
 # Conditional statements
 # if, elif, else
 
 # a=int(input("Enter your age: "))
 # if(a>=18):
 #     print("You can vote.")
-
 # elif(a<0):
 #     print("Invalid age.")
-
 # elif(a==0):
 #     print("You are a baby and you are zero years old.")
-
 # else:
 #     print("You can't vote.")
 
 
 # age=int(input("Enter your age:"))
-
 # if(age>=18):
 #     print("Yes")
 # else:
