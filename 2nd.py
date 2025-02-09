@@ -12,7 +12,7 @@
 
 # e=None # NoneType
 
-# operators
+# operators 4 types
 
 # arithmetic operators: +,-,*,/,%,**,**,//
 
@@ -76,7 +76,7 @@
 # sum=a+b
 # print("Sum is: ",sum)
 
-# practice set 2
+# practice set chapter 2
 
 # 1
 # a=int(input("Enter 1st number?"))
@@ -106,7 +106,6 @@
 # b=int(input("Enter 2nd number?"))
 # average=(a+b)/2
 # print("Average is: ",average)  # Output: Average is: 45.5
-
 # 6
 # a=int(input("Enter 1st number?"))
 # square=a*a
