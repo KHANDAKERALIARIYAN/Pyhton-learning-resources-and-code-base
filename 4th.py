@@ -1,4 +1,6 @@
-# chapter 4 list and tuple
+# chapter 4 
+
+# list and tuple
 
 # list is a collection of items in a particular order
 # example=[1,"Arif",3.14,"delhi"]
@@ -130,7 +132,6 @@
 
 # marks.sort()
 # print(marks)
-
 
 # 3.
 # a=(1,2,"harry")
