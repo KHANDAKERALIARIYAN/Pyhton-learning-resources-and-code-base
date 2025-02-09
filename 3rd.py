@@ -22,6 +22,7 @@
 # print(number1[1:7:2])
 
 # string function
+
 # name="Ariyan"
 # print(len(name))
 # print(name.endswith("y"))
@@ -31,39 +32,6 @@
 # escape sequence \n \t \" \' \\
 # a="Ariyan is a good boy \nHe wants to be a web developer";
 # print(a)
-
-
-# chapter 3 practice set
-
-# 1.
-# name=input("Enter your name: ")
-# print("Good Afternoon "+name)
-# print(f"Good Afternoon {name}")
-
-# 2.
-
-# letter = '''  
-# Dear <|Name|>, 
-#                 You are selected! 
-#                 <|Date|'''
-
-# print(letter.replace("<|Name|>", "Ariyan").replace("<|Date|", "12/12/2021"))
-
-# 3.
-# name="Ariyan is a  good boy"
-# name2="Ariyan is a good boy"
-# print(name.find("  "))
-# print(name2.find("  "))
-
-# 4.
-# name="Ariyan is a  good boy"
-# print(name.replace("  "," "))
-
-# 5.
-# letter = "Dear Harry,\n\t This python course is nice. \nThanks!" 
-# print(letter)
-
-
 
 # from chatgpt some method
 
@@ -141,3 +109,33 @@
 
 # s = "hello world"
 # print(s.title())  # Output: "Hello World"
+
+#  practice set chapter 3
+
+# 1.
+# name=input("Enter your name: ")
+# print("Good Afternoon "+name)
+# print(f"Good Afternoon {name}")
+
+# 2.
+
+# letter = '''  
+# Dear <|Name|>, 
+#                 You are selected! 
+#                 <|Date|'''
+
+# print(letter.replace("<|Name|>", "Ariyan").replace("<|Date|", "12/12/2021"))
+
+# 3.
+# name="Ariyan is a  good boy"
+# name2="Ariyan is a good boy"
+# print(name.find("  "))
+# print(name2.find("  "))
+
+# 4.
+# name="Ariyan is a  good boy"
+# print(name.replace("  "," "))
+
+# 5.
+# letter = "Dear Harry,\n\t This python course is nice. \nThanks!" 
+# print(letter)
